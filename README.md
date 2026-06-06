@@ -2,7 +2,7 @@
 
 An IoT-based real-time healthcare monitoring system built around an interoperability framework. Patient vitals (pulse rate, blood oxygen saturation, body temperature) are collected from market sensors, streamed in real time using the **XMPP** protocol, and made available to doctors and family members through a connected mobile and web layer. The system was tested with three real human volunteers.
 
-**🏆 Best Paper Award** at the RAWCET 2022 conference. Certificate included in this repo: [`Best_Paper_Award.pdf`](Best_Paper_Award.pdf).
+**🏆 Best Paper Award** at the RAWCET 2022 conference. Certificate included in this repo: [`Best Paper Award.pdf`](Best Paper Award.pdf).
 
 ## Publication
 
